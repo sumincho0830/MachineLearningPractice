@@ -9,3 +9,4 @@ all_img[num, :, :, :] = x
 all_label[num] = 0  # no_glasses
 num += 1
 ```
+![Uploading image.png…]()
